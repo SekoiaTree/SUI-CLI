@@ -5,3 +5,9 @@ Syntax:
 sui-cli <user-id> <api-key> [playtime/name/default]
   
 Any pull requests appreciated, especially for cleanliness (code quickly got ugly...)
+
+---
+
+Example screenshot:
+
+![the start of my output sorted by name :)](https://imgur.com/ijGebmL)
