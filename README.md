@@ -11,3 +11,14 @@ Any pull requests appreciated, especially for cleanliness (code quickly got ugly
 Example screenshot:
 
 ![the start of my output sorted by name :)](/SUI-CLI.png)
+
+---
+
+Future Goals (If I'm not lazy):
+- [ ] Config (colors, info displayed)
+- [ ] Minimal mode (only game names)
+- [ ] Saving API key and such
+- [ ] Detailed mode, asking about a specific game
+- [ ] Do not require API key if unnecessary
+
+Ideas welcome!
